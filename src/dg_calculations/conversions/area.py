@@ -1,0 +1,9 @@
+"""1 sq. inch = 6.4516 sq. centimeters
+1 sq. centimeter = 0.1550 sq. inches
+1 sq. foot = 0.0929 sq. meters
+1 sq. meter = 1.195986 sq. yards
+1 sq. yard = 0.83613 sq. meters
+1 sq. kilometer = 0.386101 sq. miles
+1 sq. mile = 2.589999 sq. kilometers
+1 hectare = 2.471044 acres
+1 acre = 0.404687 hectares"""
