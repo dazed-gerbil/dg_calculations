@@ -1,0 +1,4 @@
+TODO: validate all incoming variables
+
+TODO: consider making it a class or classes instead of functions. Benefits / drawbacks?
+
