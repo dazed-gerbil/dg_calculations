@@ -22,7 +22,7 @@ def feet_to_centimetres(feet: float) -> float:
 
 
 def centimetres_to_inches(centimetres: float) -> float:
-    return centimetres * 0.3937
+    return centimetres * 0.393701
 
 
 def yards_to_metres(yards: float) -> float:
