@@ -8,34 +8,36 @@
 1 metric ton = 1.1200 short tons
 1 long ton = 1.01605 metric tons"""
 
-
-def _to_(: float) -> float:
-    return
+# TODO: 1 grain = 0.05 scruples = 0.016667 drams = 0.00208 ounces ... wtf?
 
 
-def _to_(: float) -> float:
-    return
+def ounces_to_grams(ounces: float) -> float:
+    return ounces * 28.3495
 
 
-def _to_(: float) -> float:
-    return
+def grams_to_ounces(grams: float) -> float:
+    return grams * 0.03527396
 
 
-def _to_(: float) -> float:
-    return
+def pounds_to_ounces(pounds: float) -> float:
+    return pounds * 16
 
 
-def _to_(: float) -> float:
-    return
+def pounds_to_kilograms(pounds: float) -> float:
+    return pounds * 0.4535924
 
 
-def _to_(: float) -> float:
-    return
+def kilograms_to_pounds(kilograms: float) -> float:
+    return kilograms * 2.2046223
 
 
-def _to_(: float) -> float:
-    return
+def short_tons_to_metric_tons(tons: float) -> float:
+    return tons * 0.892857
 
 
-def _to_(: float) -> float:
-    return
+def metric_tons_to_short_tons(tons: float) -> float:
+    return tons * 1.1200
+
+
+def longs_tons_to_metric_tons(tons: float) -> float:
+    return tons * 1.01605
